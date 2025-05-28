@@ -15,8 +15,9 @@ cd reactIntegrador
 ### 2. Instalar dependencias
 
 npm install
-
 ### 3. Ejecutar el servidor de desarrollo
+https://github.com/SalvadorCoco/nodeIntegrador/tree/main
+### 3. Ejecutar el servidor de desarrollo (Tiene que estar el proyecto de nodejs corriendo para que funcione)
 
 npm run dev
 
